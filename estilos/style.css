@@ -1,0 +1,136 @@
+
+
+body {
+    background-color: bisque;
+    border: 5px dotted brown;
+}
+
+fieldset {
+    background-color: beige;
+}
+
+.redes {
+    display: flex;
+    justify-content: right;
+}
+
+a {
+    margin-left: 20px;
+    color: brown;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: 60px;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+nav {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    display: flex;
+    justify-content: right;
+    margin-right: 25px;
+    font-weight: bold;
+}
+
+form {
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+}
+
+select {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.destacados1 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.especiero {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.fijo {
+    text-align: center;
+    margin-right: 100px;
+
+}
+
+.nordico {
+    text-align: center;
+
+}
+
+.destacados2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.vinoteca {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.anotador {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.desarmable {
+    text-align: center;
+
+
+}
+
+h4 {
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+
+#ubicacion {
+    width: 500px;
+    height: 300px;
+    margin-left: 370px;
+    margin-right: 100px;
+}
+
+.maps {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+}
